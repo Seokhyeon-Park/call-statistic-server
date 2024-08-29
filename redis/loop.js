@@ -1,4 +1,4 @@
-const client = require('./connector');
+const client = require('./client');
 
 // API 호출
 const putRedis = async () => {

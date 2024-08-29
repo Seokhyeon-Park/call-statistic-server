@@ -1,4 +1,4 @@
-const client = require('../redis/connector');
+const client = require('../redis/client');
 const express = require('express');
 const router = express.Router();
 
